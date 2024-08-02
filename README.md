@@ -48,13 +48,13 @@ To run this app locally, follow these steps:
    
 5. Open your browser and navigate to `http://localhost:3000` to see the app in action.
 
-✨ How It Works
+## ✨ How It Works
 
 Add Notes: Use the input fields to add a new note with a title and content.
 View Notes: The notes are displayed below the input fields.
 Delete Notes: Click the delete icon on any note to remove it.
 
-📝 Code Overview
+## 📝 Code Overview
 Here's a quick look at the core functionality:
 
 App Component: Manages the state of the notes and handles adding and deleting notes.
@@ -62,11 +62,14 @@ CreateArea Component: Provides a form to create new notes.
 Note Component: Displays individual notes with a delete option.
 Header and Footer Components: Static components for app header and footer.
 
-🌟 Contributing
+## 🌟 Contributing
+
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Please ensure to follow the coding style and include tests for any new features.
 
-📝 License
+## 📝 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-📬 Contact
-For any questions or suggestions, please reach out to your-email@example.com.
+## 📬 Contact
+
+For any questions or suggestions, please reach out to scottpeete@gmail.com.
